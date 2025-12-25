@@ -59,15 +59,6 @@ I build solutions where :
 
 ## 🚧 Work method
 
-```c
-while (problem_exists) {
-    think();
-    prototype();
-    test();
-    optimize();
-    deploy(); // sans panique
-}
-```
 ![Hacking in progress](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ---
@@ -75,13 +66,6 @@ while (problem_exists) {
 ## 📬 Contact
 
 - GitHub : Only way
-
----
-
-<div align="center">
-  <strong>Merci d’être passé 🧠✨</strong><br/>
-  Compétent ? Oui.  Drôle ? J’espère.  Disponible ? Ça dépend de ton bug.
-</div>
 
 ---
 
