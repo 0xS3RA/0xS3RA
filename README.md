@@ -1,5 +1,4 @@
 <a id="readme-top"></a>
----
 
 [![GitHub][gh-shield]](#readme-top)
 [![PHP][php-shield]](#tech)
