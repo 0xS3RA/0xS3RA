@@ -16,7 +16,7 @@
 <br />
 <div align="center">
 
-  <h1>Julian “404 Not Found” Username</h1>
+  <h1>0xS3RA</h1>
 
   <p>
     Développeur backend avec quelques incursions frontend<br/>
@@ -25,7 +25,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/github_username?tab=repositories"><strong>Explorer mes projets »</strong></a>
+    <a href="https://github.com/OxS3RA?tab=repositories"><strong>Explorer mes projets »</strong></a>
   </p>
 
 </div>
@@ -62,8 +62,8 @@ Je construis des applications et des outils où :
 
 </div>
 
-> Oui, j’ai aussi déjà écrit du CSS.  
-> Non, je ne veux pas en parler.
+> Oui, je maîtrise aussi le CSS.
+> Non, ce n'est pas un stack.  
 
 ---
 
@@ -97,7 +97,7 @@ function buildStuff($coffee) {
 |---|---|
 | Écrire du bon code | ✔️ Toujours |
 | Être drôle | ✔️ Mais pas dans la stack trace |
-| Être efficace | ✔️ Surtout avant 18h |
+| Être efficace | ✔️ Surtout après 2h du matin |
 | Être maintenable | ✔️ Par moi-même et les autres humains |
 
 ---
