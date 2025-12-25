@@ -25,7 +25,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/OxS3RA?tab=repositories"><strong>Explore my projects »</strong></a>
+    <a href="https://github.com/0xS3RA?tab=repositories"><strong>Explore my projects »</strong></a>
   </p>
 
 </div>
