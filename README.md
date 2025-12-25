@@ -1,7 +1,4 @@
 <a id="readme-top"></a>
-
-# 🎩 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">🎁 Cadeau de bienvenue (CLI-compatible)</a>
-
 ---
 
 [![GitHub][gh-shield]](#readme-top)
