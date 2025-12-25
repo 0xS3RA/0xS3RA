@@ -59,7 +59,7 @@ I build solutions where :
 
 ## 🚧 Work method
 
-![Hacking in progress](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Hacking in progress](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25zamU2aTViYTI4ejZ4d2hiNXFibDZob3owMWkxbjFwMXM5dWZvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 ---
 
