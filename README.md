@@ -91,23 +91,6 @@ function buildStuff($coffee) {
 
 ---
 
-## 🏆 Approche
-
-| Objectif | Style |
-|---|---|
-| Écrire du bon code | ✔️ Toujours |
-| Être drôle | ✔️ Mais pas dans la stack trace |
-| Être efficace | ✔️ Surtout après 2h du matin |
-| Être maintenable | ✔️ Par moi-même et les autres humains |
-
----
-
-## 🔍 Indice de compétence auto-déclaré
-
-> Si ça compile, que ça passe les tests, et que ça survit au lundi matin, je considère ça comme un succès collectif.
-
----
-
 ## 📬 Contact
 
 - **LinkedIn (pro, officiel, sérieux)** : ça se passe là →  
