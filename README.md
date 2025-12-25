@@ -19,36 +19,26 @@
   <h1>0xS3RA</h1>
 
   <p>
-    Développeur backend avec quelques incursions frontend<br/>
-    Amateur de solutions élégantes et d’humour sec<br/>
-    Je transforme le café en <code>features</code>, parfois en <code>bugs</code> (mais ça reste entre nous)
+    Full Stack developper<br/>
+    Freedom parser<br/>
+    Privacy enjoyer
   </p>
 
   <p>
-    <a href="https://github.com/OxS3RA?tab=repositories"><strong>Explorer mes projets »</strong></a>
+    <a href="https://github.com/OxS3RA?tab=repositories"><strong>Explore my projects »</strong></a>
   </p>
 
 </div>
 
 ---
 
-## 🧠 À propos
+## 🧠 About me
 
-Je construis des applications et des outils où :
+I build solutions where :
 
-- **La fiabilité prime**, même quand l’humour s’invite dans les commits  
-- Le backend est solide, le code est structuré, et les blagues sont commentées  
-- J’aime résoudre des problèmes complexes, *et parfois en créer juste pour les résoudre*
-
----
-
-## 🧰 Ce que je fais vraiment
-
-- APIs, automatisation, scripts, systèmes  
-- Architecture propre, logique claire, optimisation  
-- Code pragmatique : rapide, maintenable, efficace  
-- Je ne fais pas du *ninja code*, je fais du *code que je peux relire sans aspirine*
-
+- **Stability comes first** : Is a system really worth your time if it isn't reliable ?
+- The backend is solid, with no bloat, and nothing more than what you ask and need.
+  
 ---
 
 ## <a id="tech"></a>⚙️ Tech Stack
@@ -62,12 +52,12 @@ Je construis des applications et des outils où :
 
 </div>
 
-> Oui, je maîtrise aussi le CSS.
-> Non, ce n'est pas un stack.  
+> Yes, I know CSS.
+> No, it is not a stack.  
 
 ---
 
-## 🚧 Méthode de travail
+## 🚧 Work method
 
 ```c
 while (problem_exists) {
@@ -78,24 +68,13 @@ while (problem_exists) {
     deploy(); // sans panique
 }
 ```
-
-ou en version scripting :
-
-```php
-<?php
-function buildStuff($coffee) {
-    return $coffee ? "production-ready" : "need more coffee";
-}
-?>
-```
+![Hacking in progress](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ---
 
 ## 📬 Contact
 
-- **LinkedIn (pro, officiel, sérieux)** : ça se passe là →  
-  *(le lien juste en haut dans les shields)*  
-- GitHub : si tu veux discuter technique, ouvrir une issue ou proposer un PR, je réponds vite tant que ce n’est pas une invitation Outlook
+- GitHub : Only way
 
 ---
 
