@@ -10,7 +10,7 @@
 -->
 
 [![Inspiration][stars-shield]][https://youtu.be/hPr-Yc92qaY?si=QEopaFRnF020WTFc]
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://uk.linkedin.com/in/julian-assange-80467132)]
+[![LinkedIn][linkedin-shield]][[https://uk.linkedin.com/in/julian-assange-80467132]]
 
 
 
