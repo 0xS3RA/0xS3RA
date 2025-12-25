@@ -1,87 +1,111 @@
-# 🎯 [Clique ici avant tout (important)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<a id="readme-top"></a>
 
-# 👋 Bienvenue dans l’antre du GitHub de quelqu’un qui pousse en prod le vendredi
-
-🔗 **LinkedIn** : https://uk.linkedin.com/in/julian-assange-80467132
+# 🎯 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Ne clique pas ici 👀 (je te connais)</a>
 
 ---
 
-## 🧠 Qui suis-je ?
-
-- Un développeur qui écrit `TODO` et qui pense sincèrement les faire un jour
-- J’ai déjà debug du code que **j’avais écrit la veille**
-- Mon éditeur préféré : **StackOverflow**
-- Je parle couramment :
-  - 🐍 Python
-  - ☕ JavaScript
-  - 😭 "Pourquoi ça marche pas"
-  - 😎 "Ah j’ai oublié un point-virgule"
+[![Profile Views](https://komarev.com/ghpvc/?username=github_username&style=for-the-badge)](#)
+[![Repos privés top secret](https://img.shields.io/badge/Repos-Confidentiels-red?style=for-the-badge)](#)
+[![Humour douteux](https://img.shields.io/badge/Humour-Questionnable-yellow?style=for-the-badge)](#)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ---
 
-## 🚀 Mes compétences secrètes
+<br />
+<div align="center">
 
-| Skill | Level |
-|------|:-----:|
-| Copier/Coller sans lire | █████████░ 90% |
-| Casser la prod | ████████░░ 80% |
-| Résoudre un bug en le fixant ailleurs | ███████░░░ 70% |
-| Écrire des messages de commit utiles | ██░░░░░░░░ 2% |
+  <h1>👋 Salut, je suis <code>github_username</code></h1>
+
+  <p>
+    💻 Je code • ☕ Je bug • 🔥 Je push force sur <code>main</code> (par accident)<br/>
+    🎯 Objectif 2026 : supprimer tous mes <code>console.log()</code><br/>
+    🧠 Je parle couramment JSON, sarcasme, et excuses pour les retards
+  </p>
+
+  <p>
+    <a href="https://github.com/github_username?tab=repositories"><strong>Voir mes catastrophes publiques »</strong></a>
+  </p>
+
+</div>
 
 ---
 
-## 🧪 Philosophie de code
+## 🧠 À propos de moi (la version non officielle)
+
+- 🐛 J’ai 99 bugs dans mon code, mais c’est GitHub qui en affiche seulement 3
+- 🤝 J’adore l’open source, surtout quand d’autres fixent mes issues
+- 🧪 Mes tests unitaires passent toujours... *sur mon PC*
+- 🎨 J’écris du CSS comme un peintre abstrait
+
+---
+
+## ⚙️ Tech Stack (ou "les logos qui font pro")
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue.js-%2335495e?style=for-the-badge&logo=vuedotjs)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python)
+
+</div>
+
+---
+
+## 🚀 Compétences réelles vs CV
+
+| Compétence | Réalité |
+|---|---|
+| Écrire du code propre | *Ça dépend de la définition de "propre"* |
+| Documenter mes projets | `README.md` ≠ documentation |
+| Respecter les deadlines | Oui, mais dans un autre fuseau horaire |
+| Résoudre un bug | Souvent en créant 2 nouveaux |
+
+---
+
+## 🧪 Loop de vie d’un de mes projets
 
 ```js
-while (codeDoesntWork) {
-  drinkCoffee();
-  screamInternally();
-  googleIt();
+if (ça_marche_pas) {
+  google();
+  stackoverflow();
+  prier();
+  git_push("--force");
 }
 ```
 
 ---
 
-## 📌 Projets épinglés
+## 🏆 Trophées GitHub
 
-> 💡 *"Mes meilleurs projets sont privés, mes pires sont publics."*  
-> — un philosophe anonyme qui me ressemble beaucoup
-
----
-
-## 🐛 Debugging mood du moment
-
-![debug mood](https://i.imgflip.com/30b1gx.jpg)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=github_username&theme=onedark&no-frame=true&margin-w=10" />
+</div>
 
 ---
 
-## 💬 Contact
+## 📫 Me contacter (si vraiment il faut)
 
-Si tu veux me joindre, fais comme mon code :
-1. essaye
-2. si ça marche pas, réessaye
-3. si ça marche toujours pas, ouvre une issue
+- LinkedIn : **le seul lien sérieux de cette page**
+- GitHub : tu peux ouvrir une issue, j’y répondrai dans *3 à 12 mois*
 
 ---
 
-## ⚡ Stats GitHub
+## 💀 Citation officielle
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=github_username&show_icons=true&theme=tokyonight)
-
----
-
-## 🏆 Trophées
-
-![trophées](https://github-profile-trophy.vercel.app/?username=github_username&theme=onedark)
+> *"Je ne sais pas comment ça marche, mais si je touche plus à rien ça devrait tenir."*  
+> — github_username, 3h avant que tout explose
 
 ---
 
-## 💀 Fun fact final
-
-> Il existe 2 types de développeurs :  
-> 1. Ceux qui ont déjà push force sur `main`  
-> 2. Ceux qui mentent
+<div align="center">
+  ⭐ Merci d’être passé ! Si ce profil t’a fait sourire, pense à ⭐ **starrer mon repo… ah non attends, starre juste ma vie**
+</div>
 
 ---
 
-⭐ Merci d’être passé ! Si tu aimes ce profil, **star ma vie** (pas mes repos, ils sont déjà cassés)
+<!-- MARKDOWN REFERENCES (style original conservé) -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://uk.linkedin.com/in/julian-assange-80467132
