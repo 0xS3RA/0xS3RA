@@ -28,15 +28,6 @@
 
 ---
 
-## 🧠 About me
-
-I build solutions where :
-
-- **Stability comes first** : Is a system really worth your time if it isn't reliable ?
-- The backend is solid, with no bloat, and nothing more than what you ask and need.
-  
----
-
 ## <a id="tech"></a>⚙️ Tech Stack
 
 <div align="center">
@@ -48,8 +39,7 @@ I build solutions where :
 
 </div>
 
-> Yes, I know CSS.
-> No, it is not a stack.  
+> Yes, I know CSS and html.
 
 ---
 
